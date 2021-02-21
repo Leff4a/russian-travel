@@ -1,0 +1,10 @@
+.header__lang-links {
+    margin: 18px 0 6px 29px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+  }

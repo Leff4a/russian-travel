@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+    .footer__links-li {
+      margin: 0 0 32px;
+    }
+}

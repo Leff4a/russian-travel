@@ -24,7 +24,7 @@
         display: grid;
         gap: 32px;
         grid-template-columns: 1fr;
-        grid-template-rows: repeat(4, minmax(min-content, max-content));  
+        grid-template-rows: repeat(4, minmax(min-content, max-content));
         margin: 0 0 50px;
       }
     }

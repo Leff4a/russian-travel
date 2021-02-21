@@ -1,13 +1,13 @@
 .place__link {
     margin: 0;
-    font-family: Inter, Arial, sans-serif; 
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-decoration: underline;
     color: white;
-    transition-property: opacity; 
+    transition-property: opacity;
     transition-duration: 1s; 
   } 
 

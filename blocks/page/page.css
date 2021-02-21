@@ -17,10 +17,10 @@
 }
 
 .page { 
-    font-family: 'Inter', Arial, sans-serif; 
-    width: 90%; 
+    font-family: 'Inter', Arial, sans-serif;
+    width: 90%;
     max-width: 1439px;
-    margin: 0 auto; 
+    margin: 0 auto;
     color: white;
     background-color: #2A2C2F;
   } 

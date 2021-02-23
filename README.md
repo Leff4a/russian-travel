@@ -6,4 +6,4 @@
  
 При верстве использованы адаптвная верстка, модификация по БЭМ, миксы, псевдоклассы и еще много всего сложного и интересного.
 
-Ссылка на GitHub Pages: [https://github.com/Leff4a/russian-travel]
+Ссылка на GitHub Pages: https://leff4a.github.io/russian-travel/index.html
